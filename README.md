@@ -1,4 +1,4 @@
-## 🎧 Responsive Podcast Website  
+## 🎧 TechWave Podcast Website  
 
 This is a **responsive podcast website** built using pure **HTML and vanilla CSS**, where I converted a Figma design into a fully functional UI.  
 
