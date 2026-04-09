@@ -1,3 +1,8 @@
+
+![tachwave podcast](https://github.com/user-attachments/assets/c1f86e67-0baa-4a60-a422-7e05fd928233)
+![417616895_11677207](https://github.com/user-attachments/assets/a93d1722-9c45-4390-83a6-23811fc32e12)
+
+
 ## 🎧 TechWave Podcast Website  
 
 This is a **responsive podcast website** built using pure **HTML and vanilla CSS**, where I converted a Figma design into a fully functional UI.  
